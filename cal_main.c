@@ -4,6 +4,7 @@
 
 int main(int argc, char *argv[])
 {
+    printf(" The start of the calculator   ");
     int a = atoi(argv[1]);
     int b = atoi(argv[2]);
 
